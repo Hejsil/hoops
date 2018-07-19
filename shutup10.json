@@ -2,14 +2,7 @@
   "homepage": "https://www.oo-software.com/en/shutup10",
   "hash": "1ab42adf97f2ac1204ca85085c0d5b4fcb3d7fc70f9346d2e36bd5cb8070964c",
   "version": "1.6.1398",
-  "architecture": {
-    "64bit": {
-      "url": "https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe"
-    },
-    "32bit": {
-      "url": "https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe"
-    }
-  },
+  "url": "https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe",
   "shortcuts": [
       [
           "OOSU10.exe",
