@@ -1,0 +1,15 @@
+{
+  "homepage": "https://syncplay.pl/",
+  "license": "https://raw.githubusercontent.com/Syncplay/syncplay/master/LICENSE",
+  "version": "1.5.5",
+  "architecture": {
+    "64bit": {
+      "url": "https://syncplay.pl/Syncplay_v1.5.5_Portable.zip"
+    },
+    "32bit": {
+      "url": "https://syncplay.pl/syncplay_v1.5.5_Portable.zip"
+    }
+  },
+  "extract_dir": "syncplay-$version",
+  "bin": "Syncplay.exe"
+}
