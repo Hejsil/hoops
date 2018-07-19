@@ -1,4 +1,4 @@
-{
+﻿{
   "homepage": "https://syncplay.pl/",
   "license": "https://raw.githubusercontent.com/Syncplay/syncplay/master/LICENSE",
   "hash": "b0a8a6fb8ba8428af54151a9d75784d8b3ad52ad4438d18828bf1500ad347b00",
@@ -11,5 +11,11 @@
       "url": "https://syncplay.pl/syncplay_v1.5.5_Portable.zip"
     }
   },
+  "shortcuts": [
+      [
+          "Syncplay.exe",
+          "Syncplay"
+      ]
+  ],
   "bin": "Syncplay.exe"
 }
