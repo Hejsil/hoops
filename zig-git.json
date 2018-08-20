@@ -3,12 +3,12 @@
     "license": "https://raw.githubusercontent.com/ziglang/zig/master/LICENSE",
     "architecture": {
         "64bit": {
-            "url": "https://ci.appveyor.com/api/buildjobs/c63dxee8u0c2tqrj/artifacts/zig-0.2.0%2B9bd8b016.zip",
-            "hash": "e37450bae9e9c7f7b4431b67526b5e5a5159ccc1a28827e68b579096576fb4ed"
+            "url": "https://ci.appveyor.com/api/buildjobs/ugp2jul6r96bpmv9/artifacts/zig-0.2.0%2B53b18b07.zip",
+            "hash": "d8ad68abf1a49f5c163a384945944e14061fc2ac936da5a1a720818c5fa505f7"
         }
     },
-    "version": "0.2.0+9bd8b016",
-    "extract_dir": "zig-0.2.0+9bd8b016",
+    "version": "0.2.0+53b18b07",
+    "extract_dir": "zig-0.2.0+53b18b07",
     "bin": "zig.exe",
     "checkver": {
         "url": "https://ci.appveyor.com/api/projects/andrewrk/zig-d3l86/branch/master",
